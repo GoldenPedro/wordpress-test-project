@@ -1,0 +1,64 @@
+2020-03-23T09:31:38+00:00 CRITICAL syntax error, unexpected 'enqueue_style' (T_STRING), expecting ')' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\functions.php on line 284
+
+2020-03-23T10:05:56+00:00 CRITICAL syntax error, unexpected 'var' (T_VAR), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\accordion\block-accordion.php on line 11
+
+2020-03-23T10:10:35+00:00 CRITICAL syntax error, unexpected 'var' (T_VAR), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\accordion\block-accordion.php on line 11
+
+2020-03-23T12:26:11+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting '(' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+
+2020-03-23T12:26:22+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting '(' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+
+2020-03-23T12:36:38+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:36:42+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:37:00+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:37:46+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:37:50+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:38:35+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:38:38+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:39:24+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:39:56+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:39:57+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:39:59+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 19
+
+2020-03-23T12:43:01+00:00 CRITICAL syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 20
+
+2020-03-23T12:43:03+00:00 CRITICAL syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 20
+
+2020-03-23T12:44:00+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 20
+
+2020-03-23T12:44:34+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 20
+
+2020-03-23T12:44:38+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 20
+
+2020-03-23T12:47:34+00:00 CRITICAL syntax error, unexpected '?' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 20
+
+2020-03-23T12:49:13+00:00 CRITICAL syntax error, unexpected 'Continue' (T_CONTINUE), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+
+2020-03-23T12:49:35+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 17
+
+2020-03-23T12:49:38+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 17
+
+2020-03-23T12:49:56+00:00 CRITICAL syntax error, unexpected 'Continue' (T_CONTINUE) in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+
+2020-03-23T13:33:59+00:00 CRITICAL syntax error, unexpected 'photographer_url' (T_STRING), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+
+2020-03-23T13:34:14+00:00 CRITICAL syntax error, unexpected 'photographer_url' (T_STRING), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+
+2020-03-23T13:34:17+00:00 CRITICAL syntax error, unexpected 'photographer_url' (T_STRING), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+
+2020-03-23T13:34:31+00:00 CRITICAL syntax error, unexpected 'photographer_url' (T_STRING), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+
+2020-03-23T13:34:36+00:00 CRITICAL syntax error, unexpected 'photographer_url' (T_STRING), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+
+2020-03-23T13:38:56+00:00 CRITICAL syntax error, unexpected 'photographer_url' (T_STRING), expecting ',' or ';' in C:\Users\Pedro Casuso\Local Sites\test-project\app\public\wp-content\themes\store-ecommerce\template-parts\sections\blocks\call-to-action\block-call-to-action.php on line 16
+

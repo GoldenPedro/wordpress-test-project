@@ -1,0 +1,46 @@
+body .accordion {
+    width: 500px;
+    margin: auto;
+}
+
+body .heading {
+  text-align: left;
+  border-top: .5px solid black;
+}
+
+.heading:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 15px;
+    color: black;
+    float: right;
+}
+
+.heading.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+.active, .heading:hover {
+  color: gray;
+  cursor: pointer;
+}
+
+
+.description {
+  padding: 0 18px;
+  background-color: white;
+  overflow: hidden;
+  transition: 0.25s ease-in-out;
+  max-height: 0px;
+  margin-bottom: 20px;
+}
+
+.description.show {
+    display: block !important;
+    max-height: 50px;
+}
+
+@media screen and (max-width: 800px) {
+    .accordion {
+      width: auto; 
+    }
+  }
